@@ -13,7 +13,7 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "INSURE IT",
+      title: "Insure It",
       description: "Database Management Systems",
       imgUrl: projImg1,
       projUrl: "https://github.com/SameerBramhecha/Insure_It",

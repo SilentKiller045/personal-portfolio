@@ -9,7 +9,7 @@
   font-family: Centra;
   src: url('./assets/font/CentraNo2-Medium.ttf');
   font-weight: 500;
-} */
+} 
 
 @font-face {
   font-family: Centra;
@@ -363,7 +363,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 
 .txt-rotate>.wrap {
-  border-right: 0.05em solid #666;
+  border-right: 0.05em;
 }
 
 /************ Skills Css ************/

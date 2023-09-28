@@ -37,7 +37,7 @@ export const Projects = () => {
     {
       title: "Sentiment Analysis",
       description: "Data Science and Machine Learning",
-      imgUrl: projImg5, projUrl: "https://github.com/SameerBramhecha/Sentimental_Analyser",
+      imgUrl: projImg5, projUrl: "https://sentiment-analysis-syzl.onrender.com",
     },
 
     {

@@ -32,7 +32,7 @@ export const Projects = () => {
     {
       title: "Foodiee Go",
       description: "Design & Development",
-      imgUrl: projImg4, projUrl: "https://github.com/SameerBramhecha/FOODIEE-GO",
+      imgUrl: projImg4, projUrl: "https://foodiee-goo.onrender.com/",
     },
     {
       title: "Sentiment Analysis",
